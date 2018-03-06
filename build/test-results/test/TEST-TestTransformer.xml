@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestTransformer" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-03-06T01:29:13" hostname="haritas-MacBook" time="2.503">
+  <properties/>
+  <testcase name="testTransformer" classname="TestTransformer" time="2.503"/>
+  <system-out><![CDATA[Mat [ 800*600*CV_8UC1, isCont=true, isSubmat=false, nativeObj=0x7f9ddc5640a0, dataAddr=0x124fd5000 ]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

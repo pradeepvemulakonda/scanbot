@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scanbot.iml" filepath="$PROJECT_DIR$/.idea/modules/scanbot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scanbot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/scanbot_main.iml" group="scanbot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scanbot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/scanbot_test.iml" group="scanbot" />
+    </modules>
+  </component>
+</project>
